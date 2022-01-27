@@ -15,7 +15,7 @@ run_app <- function(
   ...
 ) {
   # commit simples
-  # novo commit
+  # esse comentário só tem na exemplo
   with_golem_options(
     app = shinyApp(
       ui = app_ui,
